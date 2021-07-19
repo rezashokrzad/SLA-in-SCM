@@ -3,17 +3,17 @@ Supply Chain Service Level Agreement
 
 Solico Group is the biggest dairy company which is even popular through the middle east food and beverage industry. The company is a holding that includes several companies that are collaborating. 
 
-Having an official service level agreement was one of the most critical issues through the organization. According to this agreement, we set a new agreement between the business department and logistic department.
+Having an official service level agreement was one of the most critical issues throughout the organization. According to this agreement, we set a new agreement between the business department and logistic department.
 
 All plans have been analyzed based on internal data (sales, invoices, the number of trucks, ...)
 
 
 Below a brief of executed details are proposed:
 
-1. Dividing the country into 3 different regions based on their closeness to the main inventory.
-2. Setting a foxed cost for each invoice
-3. Setting some rules (initial indices) to evaluate the cost of transporting at the primary level
-4. Setting some rules (initial indices) to evaluate the cost of transporting at the secondary level
+1. Dividing the country into three different regions based on their closeness to the main inventory.
+2. Setting a fixed cost for each invoice.
+3. Setting some rules (initial indices) to evaluate the cost of transporting at the primary level.
+4. Setting some rules (initial indices) to evaluate the cost of transporting at the secondary level.
 5. Setting some criteria for evaluating the quality of service given by the logistic department such as:
       5.1. Temperature of truck
       5.2. Shipment In Full (SIF)
